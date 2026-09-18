@@ -33,4 +33,11 @@ BITA Kernel Crew · Cohort 1 · Sept 2026
 - ifstat showed bandwidth usage continuous; ctrl + c stopped it
 - sudo iftop -i enp1s0 displayed an error- Displayed traffic
 - I got an error in the previous command but the issue was I had a o instead of a 0
-  
+
+
+# Day 2 Basic Navigation 
+-  Logged into server using (Killercoda) in the browser
+
+will redo 
+
+# Day 3 Power Trip 
