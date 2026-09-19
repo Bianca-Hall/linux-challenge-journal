@@ -41,3 +41,6 @@ BITA Kernel Crew · Cohort 1 · Sept 2026
 will redo 
 
 # Day 3 Power Trip 
+- Logged into DigitalOcean
+- No issues with this challenge
+- 
