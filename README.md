@@ -43,4 +43,7 @@ will redo
 # Day 3 Power Trip 
 - Logged into DigitalOcean
 - No issues with this challenge
-- 
+
+# Day 4 
+<img width="581" height="275" alt="image" src="https://github.com/user-attachments/assets/fe5b71f6-29e5-4d04-a411-2b32ba1ebe9f" />
+
