@@ -61,4 +61,7 @@ dd - Delete the entire current line
 diw - Delete the current word
 x - Delete the character under the cursor
 
+# Day 7 The server and its services 
+
+
 
