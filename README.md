@@ -44,9 +44,12 @@ will redo
 - Logged into DigitalOcean
 - No issues with this challenge
 
-# Day 4 
+# Day 4 Installing Software, exploring the file structure 
 <img width="581" height="275" alt="image" src="https://github.com/user-attachments/assets/fe5b71f6-29e5-4d04-a411-2b32ba1ebe9f" />
 <img width="315" height="133" alt="image" src="https://github.com/user-attachments/assets/47e59ecb-4978-414a-a98d-387b3040e53b" />
+# Day 5 More or Less 
+
+# Day 6 Editing with VIM 
 Vim Terminology
 Vim uses different names for copy, cut, and paste operations:
 
