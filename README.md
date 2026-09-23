@@ -37,14 +37,17 @@ BITA Kernel Crew · Cohort 1 · Sept 2026
 
 # Day 2 Basic Navigation 
 -  Logged into server using (Killercoda) in the browser
-
-will redo 
+-  Also explored the challenge in DigitalOcean
+-  This one was fun making directories and removing them
+-  No issues 
 
 # Day 3 Power Trip 
 - Logged into DigitalOcean
 - No issues with this challenge
 
 # Day 4 Installing Software, exploring the file structure 
+- Challenge done using DigitalOcean
+- No issues here 
 <img width="581" height="275" alt="image" src="https://github.com/user-attachments/assets/fe5b71f6-29e5-4d04-a411-2b32ba1ebe9f" />
 <img width="315" height="133" alt="image" src="https://github.com/user-attachments/assets/47e59ecb-4978-414a-a98d-387b3040e53b" />
 
