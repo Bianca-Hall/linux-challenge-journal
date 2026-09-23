@@ -52,17 +52,21 @@ BITA Kernel Crew · Cohort 1 · Sept 2026
 <img width="315" height="133" alt="image" src="https://github.com/user-attachments/assets/47e59ecb-4978-414a-a98d-387b3040e53b" />
 
 # Day 5 More or Less 
+- Learned to use the tab feature, more adding lines and less removing entries
+- Used the history command to view the history of all the commands I've entered
+
 
 # Day 6 Editing with VIM 
-Vim Terminology
-Vim uses different names for copy, cut, and paste operations:
-
-Yank (y) - Copy text
-Delete (d) - Cut text (removes it and stores it in a register)
-Put (p) - Paste text from a register
-dd - Delete the entire current line
-diw - Delete the current word
-x - Delete the character under the cursor
+No issues here; notes for myself below 
+- Vim Terminology
+- Vim uses different names for copy, cut, and paste operations:
+- Yank (y) - Copy text
+- Delete (d) - Cut text (removes it and stores it in a register)
+- Put (p) - Paste text from a register
+- dd - Delete the entire current line
+- diw - Delete the current word
+- x - Delete the character under the cursor
+- :q! to quit 
 
 # Day 7 The server and its services 
 
