@@ -69,6 +69,8 @@ No issues here; notes for myself below
 - :q! to quit 
 
 # Day 7 The server and its services 
-- Ran into issues using vim 
+- Apache is a free, open-source web server software that processes incoming web requests and delivers content over the internet
+- Ran into issues using vim
+- - 
 
 
