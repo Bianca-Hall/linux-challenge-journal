@@ -69,6 +69,6 @@ No issues here; notes for myself below
 - :q! to quit 
 
 # Day 7 The server and its services 
-
+- Ran into issues using vim 
 
 
