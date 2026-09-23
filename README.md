@@ -72,5 +72,6 @@ No issues here; notes for myself below
 - Apache is a free, open-source web server software that processes incoming web requests and delivers content over the internet
 - Ran into issues using vim
 - - 
+<img width="445" height="599" alt="image" src="https://github.com/user-attachments/assets/a4662bdb-1c5d-492c-8a95-90128bd7d29a" />
 
 
