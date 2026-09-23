@@ -75,4 +75,5 @@ No issues here; notes for myself below
 <img width="445" height="599" alt="image" src="https://github.com/user-attachments/assets/a4662bdb-1c5d-492c-8a95-90128bd7d29a" />
 - I'm stuck editing the apache server, I can't get it to save.
 - BRB After troubleshooting
+- I had to type :wq to close the vim 
 
