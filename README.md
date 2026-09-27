@@ -81,6 +81,10 @@ No issues here; notes for myself below
 - ugggh still stuck trying to view the html I typed in the vim for the apache web server
 - Apache server will not load
 - <img width="757" height="386" alt="image" src="https://github.com/user-attachments/assets/52b2229a-3f5d-4632-b890-b83031fa3c4e" />
+Created a new server and restarted the challenge
+- access.log
+<img width="729" height="313" alt="image" src="https://github.com/user-attachments/assets/f07d8181-d3ac-4935-9dcd-a8ccdd358312" />
+
 
 # Day 8 The infamous “grep” and other text processors
 - 
