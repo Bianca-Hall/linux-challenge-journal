@@ -76,4 +76,9 @@ No issues here; notes for myself below
 - I'm stuck editing the apache server, I can't get it to save.
 - BRB After troubleshooting
 - I had to type :wq then enter to close the vim 
-- ugggh still stuck trying to view the html I typed in the vim for the apache web server 
+- ugggh still stuck trying to view the html I typed in the vim for the apache web server
+- Apache server will not load
+- <img width="757" height="386" alt="image" src="https://github.com/user-attachments/assets/52b2229a-3f5d-4632-b890-b83031fa3c4e" />
+
+# Day 8 The infamous “grep” and other text processors
+- 
