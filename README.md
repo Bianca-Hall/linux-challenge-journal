@@ -73,6 +73,8 @@ No issues here; notes for myself below
 - Ran into issues using vim
 - - 
 <img width="445" height="599" alt="image" src="https://github.com/user-attachments/assets/a4662bdb-1c5d-492c-8a95-90128bd7d29a" />
+<img width="115" height="19" alt="image" src="https://github.com/user-attachments/assets/e1981d4e-ac72-40b9-a90c-76aed3617c48" />
+
 - I'm stuck editing the apache server, I can't get it to save.
 - BRB After troubleshooting
 - I had to type :wq then enter to close the vim 
