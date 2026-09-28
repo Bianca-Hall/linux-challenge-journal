@@ -88,4 +88,6 @@ Created a new server and restarted the challenge
 
 # Day 8 The infamous “grep” and other text processors
 - <img width="821" height="30" alt="image" src="https://github.com/user-attachments/assets/5fecd17d-7711-4e2a-b97f-c4113bb4868e" />
+<img width="798" height="35" alt="image" src="https://github.com/user-attachments/assets/63fa62db-a1c6-44c5-b15d-62a16ce213db" />
+
 
