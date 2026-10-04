@@ -91,4 +91,16 @@ Created a new server and restarted the challenge
 <img width="798" height="35" alt="image" src="https://github.com/user-attachments/assets/63fa62db-a1c6-44c5-b15d-62a16ce213db" />
 
 # Day 9 Diving into Networking 
+# Day 10 Scheduling Tasks 
+I am Struggling 
+# Day 11 Finding Things
+No issues here 
+
+# Day 12 Transferring Files 
+Not done 
+
+# Day 13 Users and Groups 
+# Day 14 WHo has permission?
+
+
 
