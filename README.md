@@ -91,16 +91,31 @@ Created a new server and restarted the challenge
 <img width="798" height="35" alt="image" src="https://github.com/user-attachments/assets/63fa62db-a1c6-44c5-b15d-62a16ce213db" />
 
 # Day 9 Diving into Networking 
+Explored port 22 and port 80 
+
 # Day 10 Scheduling Tasks 
-I am Struggling 
+Used crontab to schedule tasks 
+Scheduled daily backups 
+
 # Day 11 Finding Things
-No issues here 
+Explored using locate, find, grep and which 
 
 # Day 12 Transferring Files 
-Not done 
+Set up SFTP to transfer and move files using FileZilla 
+Uploaded files to the server and downloaded a file from the server 
 
-# Day 13 Users and Groups 
-# Day 14 WHo has permission?
+# Day 13 Users and groups 
+Create a new user, group, added the new user to a group and made a new user a sudoer
+No issues here 
+
+# Day 14 Who has permissions?
+Changed a file ownership to root 
+Changed file permissions 
+created files using vim 
+
+# Day 15 Deeper into repositories 
+
+
 
 
 
