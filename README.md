@@ -120,6 +120,7 @@ created files using vim
 <img width="380" height="181" alt="image" src="https://github.com/user-attachments/assets/633e586c-f7fa-4e2b-bee9-5afa79831496" />
 
 # Day 16 Archiving and Compressing 
+<img width="287" height="298" alt="image" src="https://github.com/user-attachments/assets/fa9065d8-a4d6-457d-a4ae-37df2cfdba71" />
 
 
 
