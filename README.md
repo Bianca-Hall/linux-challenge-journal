@@ -125,6 +125,7 @@ created files using vim
 # Day 17 Build from the source 
 <img width="549" height="55" alt="image" src="https://github.com/user-attachments/assets/03a3b6a9-fb11-4c5e-899a-42c6c5dcb44c" />
 <img width="833" height="100" alt="image" src="https://github.com/user-attachments/assets/7f61333d-05f4-4a3b-9561-8ea2d4a2516b" />
+<img width="323" height="141" alt="image" src="https://github.com/user-attachments/assets/0bc25b10-95ad-4a95-86fd-379b1b07d11b" />
 
 
 
