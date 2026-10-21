@@ -119,8 +119,12 @@ created files using vim
 <img width="299" height="68" alt="image" src="https://github.com/user-attachments/assets/446d3236-910e-4946-8ca7-a24ecca75fae" />
 <img width="380" height="181" alt="image" src="https://github.com/user-attachments/assets/633e586c-f7fa-4e2b-bee9-5afa79831496" />
 
-# Day 16 Archiving and Compressing 
+# Day 16 Archiving and Compressing (Got stuck will revisit) 
 <img width="287" height="298" alt="image" src="https://github.com/user-attachments/assets/fa9065d8-a4d6-457d-a4ae-37df2cfdba71" />
+
+# Day 17 Build from the source 
+<img width="549" height="55" alt="image" src="https://github.com/user-attachments/assets/03a3b6a9-fb11-4c5e-899a-42c6c5dcb44c" />
+
 
 
 
