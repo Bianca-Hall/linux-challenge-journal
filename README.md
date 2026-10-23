@@ -128,6 +128,7 @@ created files using vim
 <img width="323" height="141" alt="image" src="https://github.com/user-attachments/assets/0bc25b10-95ad-4a95-86fd-379b1b07d11b" />
 # Got stuck here, will pick up on here tomorrow 
 <img width="425" height="407" alt="image" src="https://github.com/user-attachments/assets/44957f51-8303-46d1-87f2-b3ac49c36624" />
+<img width="491" height="344" alt="image" src="https://github.com/user-attachments/assets/a02d610b-c83b-4fb1-9cbe-6b77b38e13d2" />
 
 
 
